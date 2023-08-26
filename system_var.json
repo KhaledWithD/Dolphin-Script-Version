@@ -1,7 +1,1 @@
-{
-    "version": {
-        "dolphin_version": "1.0 Beta",
-        "dolphin_version_numeric": 1,
-        "built_version": 4
-    }
-}
+{"version":{"dolphin_version":"1.0 Beta","dolphin_version_numeric":1,"built_version":200}}
